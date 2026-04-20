@@ -1,8 +1,8 @@
-// Service Worker — Reptiles de Colombia v2026.4.19.1111
+// Service Worker — Reptiles de Colombia v2026.4.20.0713
 // Generado automáticamente por construir_estilo_icono_1.py
 // Estrategia: Cache-first con actualización en background
 
-const CACHE = 'reptiles-co-v2026.4.19.1111';
+const CACHE = 'reptiles-co-v2026.4.20.0713';
 
 self.addEventListener('install', e => {
   self.skipWaiting();
